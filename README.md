@@ -24,7 +24,7 @@ I'm also passionate about hardware and computer 💻.
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
+<code><img height="30" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"></code>
 <code><img height="30" src="https://blog.oxiane.com/wp-content/uploads/2021/05/WSL2.png"></code>
 
 
