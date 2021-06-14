@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Tahar AMAIRI!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamairi/)](https://www.linkedin.com/in/tamairi/) 
-
 ### 🧐 About me
 I'm 21 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 
@@ -33,10 +31,11 @@ I'm also passionate about hardware and computer 💻.
 
 ### 📊 My stats
 <br/>
-
 <a href="https://github.com/T-amairi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-amairi&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=buefy&layout=compact" />
 </a>
-
 <br/>
+
+🤝🏻 Connect with me ! 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamairi/)](https://www.linkedin.com/in/tamairi/) 
