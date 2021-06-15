@@ -33,7 +33,7 @@ I'm also passionate about hardware and computer 💻.
  * [CO2 Evolution](Evolution-CO2) - Evolution of CO2 in the coming years using the Kaya equation and linear regressions in Python
  * [Diner des ennemis](https://github.com/T-amairi/Diner-des-ennemis) - Solving a combinatorial problem with C++
  * [Temperature](https://github.com/T-amairi/ProjetTemp) - Study of the evolution of the temperature in the upper layers of the soil using finite difference in Python
- * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ 
+ * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ (Intership at [LIP6](https://www.lip6.fr/))
 
 ### 📊 My stats
 <br/>
