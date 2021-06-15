@@ -27,7 +27,13 @@ I'm also passionate about hardware and computer 💻.
 <code><img height="30" src="https://blog.oxiane.com/wp-content/uploads/2021/05/WSL2.png"></code>
 
 ### 🚀 My works 
-<code><img height="30" src="https://www.radiototem.net/templates/yootheme/cache/travaux-6e711ead.png"></code>
+ * [IOTA - Tip Selection Algorithm](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
+ * [Sherlock 13](https://github.com/T-amairi/Sh13) - Sherlock 13 online game using TCP protocol & SDL2
+ * [Metro](https://github.com/T-amairi/ProjetMetro) - Program to obtain the shortest metro itinerary in Paris using Dijkstra's algorithm in C
+ * [CO2 Evolution](Evolution-CO2) - Evolution of CO2 in the coming years using the Kaya equation and linear regressions in Python
+ * [Diner des ennemis](https://github.com/T-amairi/Diner-des-ennemis) - Solving a combinatorial problem with C++
+ * [Temperature](https://github.com/T-amairi/ProjetTemp) - Study of the evolution of the temperature in the upper layers of the soil using finite difference in Python
+ * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ 
 
 ### 📊 My stats
 <br/>
