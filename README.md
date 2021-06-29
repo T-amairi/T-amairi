@@ -39,7 +39,7 @@ I'm also passionate about hardware and computer 💻.
 ### 📊 My stats
 <br/>
 <a href="https://github.com/T-amairi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-amairi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T-amairi&theme=slateorange&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=slateorange" />
 </a>
 <br/>
