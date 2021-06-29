@@ -37,5 +37,6 @@ I'm also passionate about hardware and computer 💻.
  * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ (Internship at [LIP6](https://www.lip6.fr/))
 
 ### 📊 My stats
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=slateorange&layout=compact" />
   <img src= "https://github-readme-stats.vercel.app/api?username=T-amairi&theme=slateorange&show_icons=true" />
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=slateorange" />
+ 
