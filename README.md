@@ -17,6 +17,7 @@ I'm also passionate about hardware and computer 💻.
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="30" src="https://www.captronic.fr/local/cache-vignettes/L300xH300/arton2880-430ba.png"></code>
 
 ### 🛠️ My tools
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
@@ -25,7 +26,6 @@ I'm also passionate about hardware and computer 💻.
 <code><img height="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
 <code><img height="30" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"></code>
 <code><img height="30" src="https://blog.oxiane.com/wp-content/uploads/2021/05/WSL2.png"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/919488525166432256/XKZObH2l_400x400.jpg"></code>
 
 ### 🚀 My works 
  * [IOTA - Tip Selection Algorithm](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
