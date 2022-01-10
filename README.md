@@ -11,21 +11,25 @@ I'm 21 years old and I'm studying [applied mathematics and computer science](htt
 I'm also passionate about hardware and 💻. 
 
 ### 🌐 Programming languages
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-<code><img height="30" src="https://masterprograming.com/wp-content/uploads/2019/03/c-programming-e1536069688313.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 <code><img height="30" src="https://www.captronic.fr/local/cache-vignettes/L300xH300/arton2880-430ba.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
+
 
 ### 🛠️ My tools
-<code><src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
-<code><img height="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg"></code>
 <code><img height="30" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"></code>
 <code><img height="30" src="https://blog.oxiane.com/wp-content/uploads/2021/05/WSL2.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
 ### 🚀 My works 
  * [IOTA (Tip Selection Algorithm)](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
