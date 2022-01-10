@@ -28,13 +28,14 @@ I'm also passionate about hardware and computer 💻.
 <code><img height="30" src="https://blog.oxiane.com/wp-content/uploads/2021/05/WSL2.png"></code>
 
 ### 🚀 My works 
- * [IOTA - Tip Selection Algorithm](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
+ * [IOTA (Tip Selection Algorithm)](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
  * [Sherlock 13](https://github.com/T-amairi/Sh13) - Sherlock 13 online game using TCP protocol & SDL2
  * [Metro](https://github.com/T-amairi/ProjetMetro) - Program to obtain the shortest metro itinerary in Paris using Dijkstra's algorithm in C
  * [CO2 Evolution](https://github.com/are2019-mipia1a2/Evolution-CO2) - Evolution of CO2 in the coming years using the Kaya equation and linear regressions in Python
  * [Diner des ennemis](https://github.com/T-amairi/Diner-des-ennemis) - Solving a combinatorial problem with C++
  * [Temperature](https://github.com/Amine695/ProjetTemp) - Study of the evolution of the temperature in the upper layers of the soil using finite difference in Python
  * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ (Internship at [LIP6](https://www.lip6.fr/))
+ * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R. 
 
 ### 📊 My stats
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=slateorange&layout=compact" />
