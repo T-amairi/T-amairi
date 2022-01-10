@@ -44,5 +44,3 @@ I'm also passionate about hardware and 💻.
 ### 📊 My stats
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=default&layout=compact" />
   <img src= "https://github-readme-stats.vercel.app/api?username=T-amairi&theme=default&show_icons=true" />
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=T-amairi)](https://github.com/anuraghazra/github-readme-stats)
- 
