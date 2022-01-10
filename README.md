@@ -24,12 +24,12 @@ I'm also passionate about hardware and 💻.
 ### 🛠️ My tools
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png"></code>
-<code><img height="30" src="https://github.com/T-amairi/T-amairi/blob/main/img/omnetpp.png"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img height="30" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png">
+<img height="30" src="https://github.com/T-amairi/T-amairi/blob/main/img/omnetpp.png">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 
 ### 🚀 My works 
  * [IOTA (Tip Selection Algorithm)](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
