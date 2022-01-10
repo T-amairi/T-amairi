@@ -4,7 +4,7 @@
 ### 🧐 About me
 I'm 21 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 
-- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr), [Sorbonne Université](https://www.sorbonne-universite.fr/)
+- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) at [Sorbonne Université](https://www.sorbonne-universite.fr/)
 - 🔥 My favorite programming languages - **Python** | **C++**
 - ⌨ My favorite text editor - **Visual Studio Code**
 
@@ -42,7 +42,7 @@ I'm also passionate about hardware and 💻.
  * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R. 
 
 ### 📊 My stats
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=slateorange&layout=compact" />
-  <img src= "https://github-readme-stats.vercel.app/api?username=T-amairi&theme=slateorange&show_icons=true" />
-  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=T-amairi)](https://github.com/anuraghazra/github-readme-stats)
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=default&layout=compact" />
+  <img src= "https://github-readme-stats.vercel.app/api?username=T-amairi&theme=default&show_icons=true" />
+  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamairi)](https://github.com/anuraghazra/github-readme-stats)
  
