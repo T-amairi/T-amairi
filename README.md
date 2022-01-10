@@ -25,7 +25,7 @@ I'm also passionate about hardware and 💻.
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg"></code>
+<code><img height="30" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png"></code>
 <code><img height="30" src="https://pbs.twimg.com/profile_images/915927723880697856/7SdZ6Q3d_400x400.jpg"></code>
 <code><img height="30" src="https://blog.oxiane.com/wp-content/uploads/2021/05/WSL2.png"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"></code>
