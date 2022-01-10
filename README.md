@@ -20,7 +20,7 @@ I'm also passionate about hardware and 💻.
 <code><img height="30" src="https://www.captronic.fr/local/cache-vignettes/L300xH300/arton2880-430ba.png"></code>
 
 ### 🛠️ My tools
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 <code><img height="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
