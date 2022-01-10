@@ -17,7 +17,7 @@ I'm also passionate about hardware and 💻.
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
-<code><img height="30" src="https://www.captronic.fr/local/cache-vignettes/L300xH300/arton2880-430ba.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
 
 
