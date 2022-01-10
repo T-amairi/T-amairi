@@ -11,7 +11,7 @@ I'm 21 years old and I'm studying [applied mathematics and computer science](htt
 I'm also passionate about hardware and 💻. 
 
 ### 🌐 Programming languages
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg"></code>
