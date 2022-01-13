@@ -18,8 +18,6 @@ I'm also passionate about hardware and 💻.
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 </code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg"></code>
-</code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"></code>
-
 
 ### 🛠️ My tools
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
@@ -40,7 +38,3 @@ I'm also passionate about hardware and 💻.
  * [Temperature](https://github.com/Amine695/ProjetTemp) - Study of the evolution of the temperature in the upper layers of the soil using finite difference in Python
  * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ (Internship at [LIP6](https://www.lip6.fr/))
  * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R
-
-### 📊 My stats
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=T-amairi&theme=default&layout=compact" />
-  <img src= "https://github-readme-stats.vercel.app/api?username=T-amairi&theme=default&show_icons=true" />
