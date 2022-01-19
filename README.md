@@ -18,6 +18,7 @@ I'm also passionate about hardware and 💻.
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 </code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg"></code>
+</code><img height="30" src="https://github.com/T-amairi/T-amairi/blob/main/img/sqlite.png"></code>
 
 ### 🛠️ My tools
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
