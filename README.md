@@ -43,4 +43,7 @@ I'm also passionate about hardware and 💻.
 
 ### 📊 WakaTime stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
