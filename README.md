@@ -41,7 +41,7 @@ I'm also passionate about hardware and 💻.
  * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R
  * [Multiplication algorithm](https://github.com/T-amairi/FFT) - Implementation of different fast multiplication algorithms using Python
 
-### 📊 WakaTime stats
+### 📊 My Stats
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
