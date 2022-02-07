@@ -40,3 +40,7 @@ I'm also passionate about hardware and 💻.
  * [IOTA](https://github.com/T-amairi/IOTA) - Decentralized simulation of IOTA using OMNeT++ (Internship at [LIP6](https://www.lip6.fr/))
  * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R
  * [Multiplication algorithm](https://github.com/T-amairi/FFT) - Implementation of different fast multiplication algorithms using Python
+
+### 📊 WakaTime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
