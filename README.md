@@ -20,7 +20,7 @@ I'm also passionate about hardware and 💻.
 </code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/RISC-V-logo-square.svg"></code>
 </code><img height="30" src="https://github.com/T-amairi/T-amairi/blob/main/img/sqlite.png"></code>
 
-### 🛠️ My tools
+### 🛠️ Tools
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
@@ -30,7 +30,7 @@ I'm also passionate about hardware and 💻.
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
-### 🚀 My works 
+### 🚀 Projects
  * [IOTA (Tip Selection Algorithm)](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
  * [Sherlock 13](https://github.com/T-amairi/Sh13) - Sherlock 13 online game using TCP protocol & SDL2
  * [Metro](https://github.com/T-amairi/ProjetMetro) - Program to obtain the shortest metro itinerary in Paris using Dijkstra's algorithm in C
@@ -41,7 +41,7 @@ I'm also passionate about hardware and 💻.
  * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R
  * [Multiplication algorithm](https://github.com/T-amairi/FFT) - Implementation of different fast multiplication algorithms using Python
 
-### 📊 My Stats
+### 📊 Stats
 <!--START_SECTION:waka-->
 ```text
 C++     3 hrs 43 mins   █████████████████████▒░░░   84.72 % 
