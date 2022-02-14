@@ -5,7 +5,7 @@
 I'm 21 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) at [Sorbonne Université](https://www.sorbonne-universite.fr/)
-- 🔥 My favorite programming languages - **Python** | **C++**
+- 🔥 My favorite programming languages - **C++**
 - ⌨ My favorite text editor - **Visual Studio Code**
 
 I'm also passionate about hardware and 💻. 
