@@ -43,7 +43,7 @@ I'm also passionate about hardware and 💻.
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-328-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-293-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120%20Thousand%20lines%20of%20code-blue)
 
@@ -101,5 +101,5 @@ Windows                  18 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 26/02/2022 04:13:09 UTC
+ Last Updated on 28/02/2022 04:13:36 UTC
 <!--END_SECTION:waka-->
