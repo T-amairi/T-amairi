@@ -42,6 +42,7 @@ I'm also passionate about hardware and 💻.
  * [Multiplication algorithm](https://github.com/T-amairi/FFT) - Implementation of different fast multiplication algorithms using Python
 
 ### 📊 Stats
+[![wakatime](https://wakatime.com/badge/user/c237bb74-eb05-4151-8abf-e76d45898647.svg)](https://wakatime.com/@c237bb74-eb05-4151-8abf-e76d45898647)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-286-blue)
 
