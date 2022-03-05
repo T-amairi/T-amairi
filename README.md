@@ -44,7 +44,7 @@ I'm also passionate about hardware and 💻.
 ### 📊 Stats
 [![wakatime](https://wakatime.com/badge/user/c237bb74-eb05-4151-8abf-e76d45898647.svg)](https://wakatime.com/@c237bb74-eb05-4151-8abf-e76d45898647)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122%20Thousand%20lines%20of%20code-blue)
 
@@ -102,5 +102,5 @@ Windows                  18 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 04/03/2022 04:13:58 UTC
+ Last Updated on 05/03/2022 04:13:31 UTC
 <!--END_SECTION:waka-->
