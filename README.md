@@ -43,9 +43,9 @@ I'm also passionate about hardware and 💻.
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52%20Thousand%20lines%20of%20code-blue)
 
@@ -90,18 +90,14 @@ Sunday       70 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   5 hrs 38 mins       ███████████████████████░░   92.9% 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
-C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+C                        1 hr 4 mins         ███████████████████░░░░░░   79.33% 
+Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67%
 
 💻 Operating System: 
-Linux                    5 hrs 31 mins       ██████████████████████░░░   90.82% 
-Windows                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+Linux                    1 hr 21 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/03/2022 04:14:15 UTC
+ Last Updated on 19/03/2022 04:13:37 UTC
 <!--END_SECTION:waka-->
