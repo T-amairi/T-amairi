@@ -45,7 +45,7 @@ I'm also passionate about hardware and 💻.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52%20Thousand%20lines%20of%20code-blue)
 
@@ -102,5 +102,5 @@ Linux                    3 hrs 43 mins       ███████████�
 ```
 
 
- Last Updated on 28/03/2022 04:14:17 UTC
+ Last Updated on 29/03/2022 04:14:19 UTC
 <!--END_SECTION:waka-->
