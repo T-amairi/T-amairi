@@ -8,7 +8,7 @@ I'm 21 years old and I'm studying [applied mathematics and computer science](htt
 - 🔥 My favorite programming languages - **C++**
 - ⌨ My favorite text editor - **Visual Studio Code**
 
-I'm also passionate about hardware and 💻. 
+I'm also passionate about 💻. 
 
 ### 🌐 Programming languages
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
