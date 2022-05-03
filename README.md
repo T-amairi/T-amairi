@@ -26,9 +26,12 @@ I'm also passionate about 💻.
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 </code><img height="30" src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png"></code>
 </code><img height="30" src="https://github.com/T-amairi/T-amairi/blob/main/img/omnetpp.png"></code>
-</code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
+
+### 💻 OS
+</code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
+</code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"></code>
 
 ### 🚀 Projects
  * [IOTA (Tip Selection Algorithm)](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
