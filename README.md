@@ -29,7 +29,7 @@ I'm also passionate about 💻.
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"></code>
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 
-### 💻 OS
+### 💻 Os
 </code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
 </code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"></code>
 
