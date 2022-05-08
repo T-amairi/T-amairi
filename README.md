@@ -44,6 +44,7 @@ I'm also passionate about 💻.
  * [KayaGUI](https://github.com/T-amairi/KayaGUI) - A GUI for the Kaya identity using SFML and R
  * [Multiplication algorithm](https://github.com/T-amairi/FFT) - Implementation of different fast multiplication algorithms using Python
  * [Matrix inversion algorithm](https://github.com/T-amairi/FLAG) - Implementation of different matrix inversion algorithms using C
+ * [Tendermint consensus](https://github.com/T-amairi/Tendermint) - Tendermint consensus using OMNeT++
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
