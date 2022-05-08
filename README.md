@@ -34,7 +34,6 @@ I'm also passionate about 💻.
 </code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg"></code>
 
 ### 🚀 Projects
- * [IOTA (Tip Selection Algorithm)](https://github.com/T-amairi/Implementation-of-different-TSA-for-IOTA) - Implementation of different TSA for IOTA using OMNeT++
  * [Sherlock 13](https://github.com/T-amairi/Sh13) - Sherlock 13 online game using TCP protocol & SDL2
  * [Metro](https://github.com/T-amairi/ProjetMetro) - Program to obtain the shortest metro itinerary in Paris using Dijkstra's algorithm in C
  * [CO2 Evolution](https://github.com/are2019-mipia1a2/Evolution-CO2) - Evolution of CO2 in the coming years using the Kaya equation and linear regressions in Python
