@@ -49,7 +49,7 @@ I'm also passionate about 💻.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--5%20Million%20lines%20of%20code-blue)
 
@@ -105,5 +105,5 @@ Windows                  6 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/05/2022 04:21:35 UTC
+ Last Updated on 21/05/2022 04:15:50 UTC
 <!--END_SECTION:waka-->
