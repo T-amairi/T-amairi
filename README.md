@@ -47,7 +47,7 @@ I'm also passionate about 💻.
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -55,8 +55,6 @@ I'm also passionate about 💻.
 
 **🐱 My GitHub Data** 
 
-> 🏆 203 Contributions in the Year 2022
- > 
 > 📦 257.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -94,14 +92,16 @@ Sunday       77 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        1 hr 11 mins        ████████████████████████░   97.09% 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91%
+C                        7 hrs 4 mins        ████████████████████░░░░░   82.01% 
+Python                   1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Linux                    13 hrs 47 mins      █████████████████████████   100.0%
+Linux                    21 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 26/05/2022 04:27:09 UTC
+ Last Updated on 27/05/2022 04:30:07 UTC
 <!--END_SECTION:waka-->
