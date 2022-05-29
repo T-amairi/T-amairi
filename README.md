@@ -49,7 +49,7 @@ I'm also passionate about 💻.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--9%20Million%20lines%20of%20code-blue)
 
@@ -94,16 +94,16 @@ Sunday       77 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        10 hrs 57 mins      ██████████████████░░░░░░░   72.17% 
-Python                   4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   27.32% 
+C                        11 hrs              ██████████████████░░░░░░░   72.25% 
+Python                   4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   27.24% 
 Makefile                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Linux                    27 hrs 44 mins      █████████████████████████   100.0%
+Linux                    27 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 28/05/2022 04:16:03 UTC
+ Last Updated on 29/05/2022 04:27:17 UTC
 <!--END_SECTION:waka-->
