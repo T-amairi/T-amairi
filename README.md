@@ -45,6 +45,7 @@ I'm also passionate about 💻.
  * [Matrix inversion algorithm](https://github.com/T-amairi/FLAG) - Implementation of different matrix inversion algorithms using C
  * [Tendermint consensus](https://github.com/T-amairi/Tendermint) - Tendermint consensus using OMNeT++
  * [HPC](https://github.com/T-amairi/block-lanczos-algorithm-parallelization) - Block lanczos algorithm parallelization using MPI and OpenMP
+ * [Data analysis](https://github.com/T-amairi/Customer-Personality-Analysis) - A customer personality analysis using R (PCA, KNN, HCPC, Random Forest, ...)
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
