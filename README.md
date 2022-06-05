@@ -44,6 +44,7 @@ I'm also passionate about 💻.
  * [Multiplication algorithm](https://github.com/T-amairi/FFT) - Implementation of different fast multiplication algorithms using Python
  * [Matrix inversion algorithm](https://github.com/T-amairi/FLAG) - Implementation of different matrix inversion algorithms using C
  * [Tendermint consensus](https://github.com/T-amairi/Tendermint) - Tendermint consensus using OMNeT++
+ * [HPC](https://github.com/T-amairi/block-lanczos-algorithm-parallelization) - Block lanczos algorithm parallelization using MPI and OpenMP
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
