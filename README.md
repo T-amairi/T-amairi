@@ -30,11 +30,6 @@ I'm also passionate about 💻.
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 </code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 
-
-### 💻 Os
-</code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"></code>
-</code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
-
 ### 🚀 Projects
  * [Sherlock 13](https://github.com/T-amairi/Sh13) - Sherlock 13 online game using TCP protocol & SDL2
  * [Metro](https://github.com/T-amairi/ProjetMetro) - Program to obtain the shortest metro itinerary in Paris using Dijkstra's algorithm in C
