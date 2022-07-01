@@ -46,7 +46,7 @@ I'm also passionate about 💻.
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,13 +93,18 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 33 mins        █████████████░░░░░░░░░░░░   54.99% 
+C                        1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.4% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 44 mins       ████████████████████████░   96.77% 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
 
- Last Updated on 30/06/2022 04:31:53 UTC
+ Last Updated on 01/07/2022 04:50:42 UTC
 <!--END_SECTION:waka-->
