@@ -46,9 +46,9 @@ I'm also passionate about 💻.
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67%20Thousand%20lines%20of%20code-blue)
 
@@ -64,6 +64,44 @@ I'm also passionate about 💻.
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 24/09/2022 22:06:36 UTC
+```text
+🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.1% 
+🌆 Daytime    139 commits    ████████░░░░░░░░░░░░░░░░░   35.28% 
+🌃 Evening    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
+🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       87 commits     █████░░░░░░░░░░░░░░░░░░░░   22.08% 
+Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
+Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Friday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66% 
+Saturday     35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
+Sunday       64 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+Python                   10 hrs 21 mins      █████████████████████████   99.84% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+
+💻 Operating System: 
+Windows                  10 hrs 19 mins      █████████████████████████   99.52% 
+WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+
+```
+
+
+ Last Updated on 25/09/2022 05:01:41 UTC
 <!--END_SECTION:waka-->
