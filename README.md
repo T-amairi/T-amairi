@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Tahar AMAIRI!
+## 👋 Hi there, I'm Tahar Adam AMAIRI!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamairi/)](https://www.linkedin.com/in/tamairi/) 
 
 ### 🧐 About me
