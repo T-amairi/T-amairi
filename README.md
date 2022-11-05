@@ -2,13 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamairi/)](https://www.linkedin.com/in/tamairi/) 
 
 ### 🧐 About me
-I'm 21 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
-
-- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) at [Sorbonne Université](https://sciences.sorbonne-universite.fr/)
-- 🔥 My favorite programming languages - **C++**
-- ⌨ My favorite text editor - **Visual Studio Code**
-
-I'm also passionate about 💻. 
+I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris. Currently, I am pursuing a degree in artificial intelligence and databases at the University of Sherbrooke 🇨🇦 !
 
 ### 🌐 Programming languages
 </code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
