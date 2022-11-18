@@ -40,7 +40,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,7 +50,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 
 > 🏆 277 Contributions in the Year 2022
  > 
-> 📦 265.0 kB Used in GitHub's Storage 
+> 📦 264.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,17 +87,16 @@ Sunday       66 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   2 hrs 50 mins       ████████████████████████░   96.83% 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Python                   8 hrs 57 mins       █████████████████████████   99.84% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.0%
+Windows                  8 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/11/2022 04:16:41 UTC
+ Last Updated on 18/11/2022 04:17:29 UTC
 <!--END_SECTION:waka-->
