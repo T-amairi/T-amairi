@@ -40,7 +40,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,14 +87,14 @@ Sunday       66 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   6 hrs 39 mins       █████████████████████████   99.82% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+Python                   5 hrs 43 mins       █████████████████████████   99.79% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 💻 Operating System: 
-Windows                  6 hrs 39 mins       █████████████████████████   100.0%
+Windows                  5 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/12/2022 04:14:58 UTC
+ Last Updated on 03/12/2022 04:13:15 UTC
 <!--END_SECTION:waka-->
