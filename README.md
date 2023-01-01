@@ -48,7 +48,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 
 **🐱 My GitHub Data** 
 
-> 🏆 316 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 265.0 kB Used in GitHub's Storage 
  > 
@@ -87,13 +87,13 @@ Sunday       66 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   14 hrs 27 mins      █████████████████████████   100.0%
+Python                   8 hrs 43 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 27 mins      █████████████████████████   100.0%
+Windows                  8 hrs 43 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/12/2022 04:14:35 UTC
+ Last Updated on 01/01/2023 04:14:38 UTC
 <!--END_SECTION:waka-->
