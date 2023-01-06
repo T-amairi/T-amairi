@@ -42,7 +42,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
@@ -95,5 +95,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2023 04:15:30 UTC
+ Last Updated on 06/01/2023 04:15:03 UTC
 <!--END_SECTION:waka-->
