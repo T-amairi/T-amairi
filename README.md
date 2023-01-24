@@ -40,7 +40,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -95,5 +95,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/01/2023 04:15:01 UTC
+ Last Updated on 24/01/2023 04:13:55 UTC
 <!--END_SECTION:waka-->
