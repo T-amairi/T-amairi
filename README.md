@@ -40,7 +40,7 @@ I'm studying [applied mathematics and computer science](https://www.polytech.sor
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,5 +96,5 @@ WSL                      2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/01/2023 04:13:09 UTC
+ Last Updated on 29/01/2023 04:12:45 UTC
 <!--END_SECTION:waka-->
