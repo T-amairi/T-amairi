@@ -41,7 +41,7 @@ Currently, I am pursuing a degree in artificial intelligence and databases at th
 
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,7 +49,7 @@ Currently, I am pursuing a degree in artificial intelligence and databases at th
 
 **🐱 My GitHub Data** 
 
-> 📦 281.7 kB Used in GitHub's Storage 
+> 📦 282.7 kB Used in GitHub's Storage 
  > 
 > 🏆 33 Contributions in the Year 2023
  > 
@@ -86,13 +86,14 @@ Sunday                   148 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Python                   5 hrs 14 mins       █████████████████████████   99.41 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   12 hrs 15 mins      █████████████████████████   99.72 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/04/2023 04:10:00 UTC
+ Last Updated on 17/04/2023 04:10:56 UTC
 <!--END_SECTION:waka-->
