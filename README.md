@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💼 I'm currently an intern at [Cléo Innovations inc.](https://www.cleo.eco/fr).
+- 💼 I'm currently an intern at [Cléo Innovations Inc](https://www.cleo.eco/fr).
 - 🎓 I'm pursing a M.Sc in AI & Data Science at [UdeS](https://www.usherbrooke.ca/) in Sherbrooke 🇨🇦.
 - 🎓 I'm pursing a M.Sc.Eng in Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) in Paris 🇫🇷.
 - 🏠 I'm living in Montréal 🇨🇦.
@@ -70,7 +70,7 @@
 
 <p>
     <img alt="hp" src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
-    <img alt="mac" src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+    <img alt="mac" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/>
     <img alt="pc1" src="https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
     <img alt="pc2" src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
