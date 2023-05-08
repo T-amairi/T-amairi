@@ -58,19 +58,16 @@
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-#### 💻 OS
+#### 💻 OS & Workspace Spec
 
 <p>
     <img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
-</p>
-
-#### 💻 Workspace Spec
-
-<p>
     <img alt="mac" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+    <br>
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     <img alt="hp" src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
+    <br>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
     <img alt="pc1" src="https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
     <img alt="pc2" src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
