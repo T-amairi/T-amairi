@@ -151,9 +151,9 @@
  
 ### 📊 Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -196,14 +196,16 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               7 hrs 4 mins        ████████████████████████░   95.95 % 
-Vue.js                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               2 hrs 35 mins       ███████████████████░░░░░░   75.94 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Vue.js                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-Mac                      7 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/09/2023 04:09:11 UTC
+ Last Updated on 10/09/2023 04:09:17 UTC
 <!--END_SECTION:waka-->
