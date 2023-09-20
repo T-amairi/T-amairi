@@ -61,7 +61,6 @@
     <img alt="axios" src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white"/>
     <img alt="mongoose" src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
     <img alt="openssl" src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=OpenSSL&logoColor=white"/>
-    <img alt="openssl" src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=OpenSSL&logoColor=white"/>
     <img alt="sfml" src="https://img.shields.io/badge/SFML-8CC445.svg?style=for-the-badge&logo=SFML&logoColor=white"/>  
 </p>
 
