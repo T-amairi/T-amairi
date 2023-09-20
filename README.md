@@ -22,7 +22,7 @@
 
 ### 🛠 Tech Stack
 
-#### 👩‍💻 Programming Languages
+#### 👨‍💻 Programming Languages
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -38,7 +38,7 @@
     
 </p>
 
-#### 🛠️ Frameworks
+#### 📚 Frameworks
 <p>
         <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
         <img alt="nestjs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -81,7 +81,7 @@
     
 </p>
 
-#### 💻 OS & Workspace Spec
+#### 💻 Workspace Specs
 
 <p>
     <img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
