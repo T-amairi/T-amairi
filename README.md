@@ -186,12 +186,12 @@ Sunday                   133 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/11/2023 04:10:10 UTC
+ Last Updated on 01/12/2023 04:10:34 UTC
 <!--END_SECTION:waka-->
