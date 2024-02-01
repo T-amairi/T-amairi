@@ -11,13 +11,10 @@
 
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-### 👨🏻‍💻 About Me
-
-- 💼 I'm currently an intern at [Cléo Innovations Inc](https://www.cleo.eco/fr).
-- 🎓 I'm pursing a M.Sc in AI & Data Science at [UdeS](https://www.usherbrooke.ca/) in Sherbrooke 🇨🇦.
-- 🎓 I'm pursing a M.Sc.Eng in Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) in Paris 🇫🇷.
-- 🏠 I'm living in Montréal 🇨🇦.
-
+### 🎓 Education
+- M.Sc in AI & Data Science at [UdeS](https://www.usherbrooke.ca/).
+- M.Sc.Eng in Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr).
+  
 ---
 
 ### 🛠 Tech Stack
@@ -83,9 +80,6 @@
 #### 💻 Workspace Specs
 
 <p>
-    <img alt="MacOs" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img alt="mac" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-    <br>
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     <img alt="hp" src="https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
     <br>
