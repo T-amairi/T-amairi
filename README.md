@@ -12,8 +12,8 @@
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 ### 🎓 Education
-- M.Sc in AI & Data Science at [UdeS](https://www.usherbrooke.ca/).
-- M.Sc.Eng in Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr).
+- M.Sc in AI & Data Science at [UdeS](https://www.usherbrooke.ca/)
+- M.Sc.Eng in Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
   
 ---
 
