@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adam AMAIRI <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30></h1>
+<h1 align="center">Hi, I'm Tahar Adam AMAIRI <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30></h1>
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/tamairi/">
