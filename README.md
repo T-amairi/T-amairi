@@ -126,7 +126,7 @@
 
 <p>
     <img alt="Mac" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white"/>
-    <img alt="Apple" src="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=M3 Pro&logoColor=white"/>
+    <img alt="Apple" src="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white"/>
     <br>
     <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
     <img alt="pc1" src="https://img.shields.io/badge/AMD%20Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
