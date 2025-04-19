@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Tahar Adam AMAIRI <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30></h1>
 
----
-
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/tamairi/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
